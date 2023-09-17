@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=V_MTR Pin=P?-1
+Removed Pin From Net: NetName=+5 Pin=P?-2
+Added Pin To Net: NetName=+5 Pin=P?-1
+Added Pin To Net: NetName=V_MTR Pin=P?-2
